@@ -28,7 +28,7 @@ int main()
 
     sum = firstD + secondD;
 
-    cout << "The sum of the decimal numbers: " << sum;
+    cout << "The sum of the decimal numbers ["<< firstD <<" + "<< secondD <<"] = "<< sum <<"";
     cout << "\n";
 
     return 0;
