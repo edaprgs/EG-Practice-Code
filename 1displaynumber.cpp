@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     int intnum;
-    float decnum;
+    double decnum;
 
     cout << "Enter an integer number: ";
     cin >> intnum;
